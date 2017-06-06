@@ -1,0 +1,42 @@
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\018_WPFPersonas.exe.config
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\018_WPFPersonas.exe
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\018_WPFPersonas.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\BL.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\ENT.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\DAL.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\BL.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\ENT.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\DAL.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\Views\MainWindow.g.cs
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\App.g.cs
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas_MarkupCompile.cache
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas_MarkupCompile.lref
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\Views\MainWindow.baml
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas.g.resources
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\_018_WPFPersonas.Properties.Resources.resources
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas.exe
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\018_WPFPersonas.exe.config
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas.exe
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\018_WPFPersonas.exe
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\018_WPFPersonas.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\BL.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\ENT.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\DAL.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\BL.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\ENT.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\bin\Debug\DAL.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\Views\MainWindow.g.cs
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\App.g.cs
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas_MarkupCompile.cache
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas_MarkupCompile.lref
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\Views\MainWindow.baml
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\018_WPFPersonas.g.resources
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\_018_WPFPersonas.Properties.Resources.resources
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\018_WPFPersonas\obj\Debug\UI.csproj.GenerateResource.Cache

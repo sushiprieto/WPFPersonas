@@ -1,0 +1,100 @@
+﻿<Window x:Class="_018_WPFPersonas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_018_WPFPersonas"
+        xmlns:vm="clr-namespace:UI.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600" ResizeMode="NoResize" xml:lang="es-ES">
+
+    <Window.DataContext>
+        <vm:clsMainPageVM></vm:clsMainPageVM>
+    </Window.DataContext>
+    
+    <DockPanel LastChildFill="True">
+
+        <!-- Botones -->
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="6" Background="#FFF0F0F0" >
+
+            <Button Name="btnNew" Margin="2" Background="White" ToolTip="Crea una nueva persona" Command="{Binding Path=nuevoCommand}" Visibility="{Binding Visibilidad}">
+                <Image Source="..\Images\new.png" Width="25" Height="25"></Image>
+            </Button>
+
+            <Button Name="btnSave" Margin="2" Background="White" ToolTip="Guarda una persona" Command="{Binding Path=guardarCommand}">
+                <Image Source="..\Images\save.png" Width="25" Height="25"></Image>
+            </Button>
+
+            <Button Name="btnDelete" Margin="2" Background="White" ToolTip="Borra una persona" Command="{Binding Path=eliminarCommand}" Visibility="{Binding Visibilidad}">
+                <Image Source="..\Images\delete.png" Width="25" Height="25"></Image>
+            </Button>
+
+            <Button Name="btnDeshacer" Margin="2" Background="White" ToolTip="Deshace los cambios" Command="{Binding deshacerCommand}" Visibility="{Binding VisibilidadDeshacer}">
+                <Image Source="..\Images\noimage.png" Width="25" Height="25"/>
+            </Button>
+
+        </StackPanel>
+
+        <!-- Barra del final -->
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Background="#FFF0F0F0" Margin="6">
+            <Label Content="Ameisin application que te cagas caranchoa"/>
+        </StackPanel>
+
+        <!-- Listado -->
+        <ScrollViewer Name="scrLista" Background="#FFF0F0F0" DockPanel.Dock="Left" MinWidth="150">
+            
+            <ListView Name="listadoPersonas" Background="#FFF0F0F0" MinWidth="150" Margin="4" ItemsSource="{Binding listado, UpdateSourceTrigger=PropertyChanged}" SelectedItem="{Binding personaSeleccionada, Mode=TwoWay}" Visibility="{Binding Visibilidad}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Nombre}"/>
+                            <TextBlock Text="{Binding Apellidos}" Margin="4,0,0,0"/>
+                        </StackPanel>
+                   </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+        </ScrollViewer>
+
+        <!-- Contenido del listado -->
+
+        <Grid Margin="6" Background="#FFF0F0F0" Name="GridContenido" DataContext="{Binding personaSeleccionada, Mode=TwoWay}">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Nombre:" Grid.Row="0" Margin="12,8" VerticalAlignment="Center"/>
+            <TextBox Name="txbNombre" Grid.Column="1" Margin="12,8" MinWidth="100" HorizontalAlignment="Left" Text="{Binding Nombre, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <TextBlock Text="Apellidos:" Grid.Row="1" Margin="12,8" VerticalAlignment="Center"/>
+            <TextBox Name="txbApellidos" Grid.Row="1"  Grid.Column="1" Margin="12,8" MinWidth="150" HorizontalAlignment="Left" Text="{Binding Apellidos, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <TextBlock Text="Fecha Nacimiento:" Grid.Row="2" Margin="12,8" VerticalAlignment="Center"/>
+            <TextBox Name="txbEdad" Grid.Row="2"  Grid.Column="1" Margin="12,8" MinWidth="110" HorizontalAlignment="Left" Text="{Binding FechaNac, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <TextBlock Text="Teléfono:" Grid.Row="3" Margin="12,8" VerticalAlignment="Center"/>
+            <TextBox Name="txbTelefono" Grid.Row="3"  Grid.Column="1" Margin="12,8" MinWidth="100" HorizontalAlignment="Left" Text="{Binding Telefono, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <StackPanel Orientation="Vertical" Grid.Row="4" Grid.ColumnSpan="2" MinWidth="300" HorizontalAlignment="Left">
+                <TextBlock Text="Dirección:" Margin="12,20,12,0" VerticalAlignment="Center"/>
+                <TextBox Name="txbDireccion" Margin="12,0" Text="{Binding Direccion, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" MinHeight="60" TextWrapping="Wrap"/>
+            </StackPanel>
+
+        </Grid>
+
+       
+
+    </DockPanel>
+</Window>

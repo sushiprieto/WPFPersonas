@@ -1,0 +1,18 @@
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\BL.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\BL.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\DAL.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\ENT.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\DAL.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\ENT.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\obj\Debug\BL.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\BL\obj\Debug\BL.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\BL.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\BL.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\DAL.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\ENT.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\DAL.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\bin\Debug\ENT.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\obj\Debug\BL.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\BL\obj\Debug\BL.pdb

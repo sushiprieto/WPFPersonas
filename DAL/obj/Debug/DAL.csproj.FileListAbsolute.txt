@@ -1,0 +1,14 @@
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\DAL.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\DAL.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\ENT.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\ENT.pdb
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\DAL\obj\Debug\DAL.dll
+C:\Users\cprieto\Documents\Visual Studio 2015\Projects\Desarrollo Interfaces\018_WPFPersonas\DAL\obj\Debug\DAL.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\DAL.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\DAL.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\ENT.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\DAL\bin\Debug\ENT.pdb
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\DAL\obj\Debug\DAL.dll
+D:\DRIVE\Curso DAM\DAM 3º año\Desarrollo de Interfaces\Desarrollo Interfaces\018_WPFPersonas\DAL\obj\Debug\DAL.pdb
